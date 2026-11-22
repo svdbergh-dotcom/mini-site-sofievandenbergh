@@ -1,4 +1,7 @@
 LOGBOEK
-
+1
 Ik heb de repository aangemaakt in GitHub. Ik heb deze gecloned naar mijn laptop door in mijn terminal een git clone te gebruiken met de link naar mijn repository, en deze te openen in Visual Studio Code. In Visual Studio Code heb ik een nieuwe file gemaakt met mijn logboek er in. Na een git status te doen kan ik lezen dat ik op de main aan het werken ben en dat deze up to date is, maar mijn logboek staat nog niet op Git.
 Ik probeerde en commit en push te doen, maar dit lukte niet. Ik kreeg een melding dat de author identity unknown was. Na wat opzoekwerk heb ik een git config gedaan en lukte de commit en push wel. Ik heb mijn wijzigingen niet gesaved voor ik deze naar GitHub heb gepusht, dus maak een nieuwe commit en push om mijn aanvullingen op te slaan. 
+2
+Git is een programma waar je bestanden/projecten kan in opslaan. Voor 1 bestand kan je verschillende versies aanmaken en op branches werken. Als je tevreden bent over de branches kan je deze op de main zetten door een pull request te doen. GitHub is een site waar je deze bestanden kan bekijken en pull requests kan nakijken. Je kan met meerdere mensen aan 1 project werken, door verschillende branches te gebruiken. 
+Ik wist zelf niet wat een origin was, maar heb dit wel al zien staan na een git status te doen: "Your branch is up to date with 'origin/main'". Ik dacht dus dat dit de main was van een bestand/project. Ik heb online gelezen dat de origin de naam is die Git geeft aan de online repository waarmee mijn lokale repository verbonden is. 
